@@ -1,5 +1,3 @@
-## Oi eu sou Leonardo Oliveira, desenvolvedor web e mobile!
-
 <div>
   <a href="https://github.com/Leobroud">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leobroud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
