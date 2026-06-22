@@ -30,7 +30,6 @@ Atualmente participo de iniciativas de modernização e migração de componente
 - Testes de UI
 
 ### Outras Tecnologias
-- TypeScript
 - Firebase
 - Google Analytics 4
 
