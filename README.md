@@ -21,8 +21,6 @@ Building scalable streaming experiences with Swift & SwiftUI
 
 🔄 Migrating UIKit features to SwiftUI
 
-🧪 Passionate about Software Architecture and Testing
-
 🎮 Pokémon TCG enthusiast
 
 ---
@@ -39,6 +37,7 @@ Building scalable streaming experiences with Swift & SwiftUI
 ### Architecture
 
 - MVVM
+- VIPER
 - Clean Architecture
 - Dependency Injection
 - Coordinator Pattern
