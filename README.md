@@ -1,20 +1,86 @@
-<div>
-  <a href="https://github.com/Leobroud">
-</div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Leo-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-  </div>
-  
- ##
-  
-<div>
-  <a href="mailto:leonardo.barbosa@g.globo" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:leo.oliveira.b@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-oliveira-barbosa" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div> 
+# Olá, eu sou Leonardo Barbosa 👋
+
+📱 iOS Developer na Globo (Globoplay)
+
+Sou desenvolvedor iOS com experiência em aplicações de grande escala, trabalhando principalmente com SwiftUI, UIKit, arquitetura de software e testes automatizados.
+
+Atualmente participo de iniciativas de modernização e migração de componentes UIKit para SwiftUI, focando em performance, escalabilidade e qualidade de código.
+
+---
+
+## 🚀 Tecnologias
+
+### Mobile
+- Swift
+- SwiftUI
+- UIKit
+- Combine
+- Async/Await
+
+### Arquitetura
+- MVVM
+- Clean Architecture
+- Dependency Injection
+- Coordinator Pattern
+
+### Qualidade
+- Swift Testing
+- XCTest
+- Testes Unitários
+- Testes de UI
+
+### Outras Tecnologias
+- TypeScript
+- Firebase
+- Google Analytics 4
+
+---
+
+## 💼 Experiência
+
+### Globo — Globoplay
+iOS Developer
+
+- Desenvolvimento de novas funcionalidades
+- Migração de componentes UIKit para SwiftUI
+- Arquitetura e modularização
+- Testes automatizados
+- Otimização de performance
+
+### Globo — Premiere
+Estagiário de Desenvolvimento iOS
+
+- Evolução do aplicativo Premiere
+- Correção de bugs
+- Implementação de melhorias
+
+---
+
+### 🏗️ SwiftUI Architecture Lab
+Projeto de estudos com:
+
+- MVVM
+- Dependency Injection
+- Async/Await
+- Swift Testing
+
+### 🔄 UIKit to SwiftUI
+Coleção de exemplos práticos mostrando migrações reais de UIKit para SwiftUI.
+
+---
+
+## 🎯 Atualmente Estudando
+
+- SwiftUI Avançado
+- Performance em SwiftUI
+- Arquiteturas Escaláveis
+- Inteligência Artificial aplicada a Apps
+
+---
+
+## 📈 GitHub Stats
+![Snake animation](https://github.com/Leobroud/Leobroud/blob/output/github-contribution-grid-snake.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leobroud&layout=compact)
+
+---
