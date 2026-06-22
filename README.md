@@ -84,14 +84,6 @@ Reusable SwiftUI components and design patterns.
 
 ---
 
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leobroud/Leobroud/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - SwiftUI Performance
