@@ -1,85 +1,113 @@
-# Olá, eu sou Leonardo Barbosa 👋
+<div align="center">
 
-📱 iOS Developer na Globo (Globoplay)
+# Leonardo Barbosa 👨‍💻
 
-Sou desenvolvedor iOS com experiência em aplicações de grande escala, trabalhando principalmente com SwiftUI, UIKit, arquitetura de software e testes automatizados.
+### iOS Developer @ Globoplay
 
-Atualmente participo de iniciativas de modernização e migração de componentes UIKit para SwiftUI, focando em performance, escalabilidade e qualidade de código.
+Building scalable streaming experiences with Swift & SwiftUI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Barbosa-blue?logo=linkedin)](https://www.linkedin.com/in/leonardo-oliveira-barbosa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Leobroud-black?logo=github)](https://github.com/Leobroud)
+
+</div>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 About Me
 
-### Mobile
-- Swift
-- SwiftUI
-- UIKit
-- Combine
-- Async/Await
+📱 iOS Developer at Globoplay
 
-### Arquitetura
+🏗️ Working with large-scale applications
+
+🔄 Migrating UIKit features to SwiftUI
+
+🧪 Passionate about Software Architecture and Testing
+
+🎮 Pokémon TCG enthusiast
+
+---
+
+## 🛠 Tech Stack
+
+### iOS
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-000000?logo=apple&logoColor=white)
+
+### Architecture
+
 - MVVM
 - Clean Architecture
 - Dependency Injection
 - Coordinator Pattern
 
-### Qualidade
+### Testing
+
 - Swift Testing
 - XCTest
-- Testes Unitários
-- Testes de UI
-
-### Outras Tecnologias
-- Firebase
-- Google Analytics 4
+- UI Testing
 
 ---
 
-## 💼 Experiência
+## 📌 Featured Projects
 
-### Globo — Globoplay
-iOS Developer
+### 🏗 SwiftUI Architecture Lab
 
-- Desenvolvimento de novas funcionalidades
-- Migração de componentes UIKit para SwiftUI
-- Arquitetura e modularização
-- Testes automatizados
-- Otimização de performance
-
-### Globo — Premiere
-Estagiário de Desenvolvimento iOS
-
-- Evolução do aplicativo Premiere
-- Correção de bugs
-- Implementação de melhorias
-
----
-
-### 🏗️ SwiftUI Architecture Lab
-Projeto de estudos com:
-
-- MVVM
-- Dependency Injection
-- Async/Await
-- Swift Testing
+Collection of architecture patterns and best practices.
 
 ### 🔄 UIKit to SwiftUI
-Coleção de exemplos práticos mostrando migrações reais de UIKit para SwiftUI.
+
+Real-world migration examples from UIKit to SwiftUI.
+
+### 🧩 SwiftUI Components
+
+Reusable SwiftUI components and design patterns.
 
 ---
 
-## 🎯 Atualmente Estudando
+## 📈 GitHub Analytics
 
-- SwiftUI Avançado
-- Performance em SwiftUI
-- Arquiteturas Escaláveis
-- Inteligência Artificial aplicada a Apps
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leobroud&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leobroud&layout=compact"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Leobroud"/>
+</p>
+
+---
+
+## 🐍 Contributions
+
 ![Snake animation](https://github.com/Leobroud/Leobroud/blob/output/github-contribution-grid-snake.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leobroud&layout=compact)
+---
+
+## 🎯 Current Focus
+
+- SwiftUI Performance
+- iOS Architecture
+- Swift Concurrency
+- UI Testing
+- AI-powered Mobile Apps
+
+---
+
+## 📫 Contact
+
+📧 leo.oliveira.b@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/leonardo-oliveira-barbosa
+
+🐙 GitHub:
+github.com/Leobroud
 
 ---
